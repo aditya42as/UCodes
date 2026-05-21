@@ -1,3 +1,5 @@
+/*Write a java program to implement abstract class and 
+abstract method to convert celsius to fahrenheit and vice versa*/
 import java.util.Scanner;
 
 abstract class Temperature{

@@ -1,3 +1,8 @@
+/*Write a java program to create an interface that consists 
+of a method to display volume () as an abstract method 
+and redefine this method in the derived classes to suit 
+their requirements. */
+
 import java.util.Scanner;
 
 interface DisplayAll {
